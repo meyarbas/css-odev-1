@@ -2,7 +2,7 @@
 
 .color1 {color: #3D3D3D;}
 .color2 {color: #35517C;}
-.color3 {color: #609fC7;}
+.color3 {color: #609FC7;}
 .color4 {color: #00ADB5;}
 .color5 {color: #BAD7E9;}
 .color6 {color: #FCFFE7;}
@@ -158,5 +158,5 @@ a:hover {
 }
 
 .button:hover {
-    background-color: #609fc7;
+    background-color: #609FC7;
 }
